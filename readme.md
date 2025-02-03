@@ -11,6 +11,6 @@ This is a simple chatbot application powered by OpenAI's GPT-3.5-turbo model. Th
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/INagaty/ChatGPT-ChatBot.git
    cd chatgpt-chatbot
    ```
